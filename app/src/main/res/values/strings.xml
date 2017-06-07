@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vizits</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_error_title">Sorry</string>
+
+    <string name="empty_vizits">Нет визитов</string>
+    <string name="error_loading_vizits">Возникла проблема при загрузке визитов</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
